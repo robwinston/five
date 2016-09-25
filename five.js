@@ -106,6 +106,10 @@
     return ['Jackie','Tito','Jermaine','Marlon','Michael'];
   };
 
+  five.beatle = function() {
+    return ['Brian Epstein',  'George Martin', 'Pete Best', 'Stu Sutcliff', 'Eric Clapton',  'Billy Preston', 'Neil Aspinall', 'Derek Taylor', 'Tony Sheridan'];
+}
+
   /**
    * References "I got 5 on it" by Luniz.
    * http://en.wikipedia.org/wiki/I_Got_5_on_It
